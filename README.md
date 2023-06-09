@@ -16,5 +16,5 @@ Some Additional Key Learnings I Got from this Project:
   -  Exploration of cybersecurity: As a result of the project's security considerations, I delved into cybersecurity concepts, enhancing my understanding of protecting sensitive information as the API token key to maintain data integrity.
    - Strengthening programming fundamentals: This project provided an opportunity to reinforce my knowledge in various programming aspects, such as data manipulation, error handling, and algorithmic thinking.
 
-Overall, this project showcases my ability’s progress to develop robust applications, overcome technical challenges, and adapt to varying data conditions.
+Overall, this project showcases my ability’s progress to develop gainful applications, overcome technical challenges, and adapt to varying data conditions.
 
