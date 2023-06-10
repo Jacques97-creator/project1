@@ -18,3 +18,5 @@ Some Additional Key Learnings I Got from this Project:
 
 Overall, this project showcases my ability’s progress to develop gainful applications, overcome technical challenges, and adapt to varying data conditions.
 
+You also access the project through this link:
+https://github.com/Jacques97-creator/project1/blob/main/StockPriceMonitor.py
